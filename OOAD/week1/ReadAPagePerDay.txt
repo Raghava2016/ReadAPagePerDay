@@ -1,0 +1,15 @@
+21-May-2017 Page 12-13
+
+Great Software is more than [one] thing.It's going to take more than just a simple defination to figure out what exactly great software means. 
+
+First, great software must [satisfy] the customer.The software must do what the customer want it to do.
+
+Building software that works right is great but what about when it's time to add to your code,reuse it in another application. It's not enough to just have a software that works just like the customer wants it to. Your software better be able to stand [the test of time].
+
+Second, great software is [well-designed],[well-coded] and [easy to maintain],[reuse] and [extend].
+
+Achieve 1 -> Make sure your software does what the customer wants it to do[need to get good requirements and doing some analysis comes in]. one your software works move to step 2.
+
+Achieve 2 after 1 -> Apply basic OO principles to add flexibility[coding]. Got ObjectOriented-App the move to step 3.
+
+Finally Achieve after 1 & 2 -> Strive for maintainable and reusable design [with help of patterns and principles]. Great software
