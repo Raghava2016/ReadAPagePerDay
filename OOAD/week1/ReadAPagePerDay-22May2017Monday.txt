@@ -1,0 +1,23 @@
+22-May-2017 Page 14
+
+Let's put our ideas	about the wirting great software to test.
+
+1) Make sure it's working as per customer requirements.
+
+public class FindGuitarTester
+{
+	public static void main(String args[])
+	{
+	  Inventory inventory = new Inventory();
+	  initializeInventory(inventory);
+	  Guitar whatErinLikes = new Guitar("",0,"fender");
+	  Guitar result = inventory.search(whatErinLikes);
+	  if(result != null)
+	  {
+
+	  }
+	}
+}
+
+Problem with search operation is string comparison. Let's bringin enumarations.
+
